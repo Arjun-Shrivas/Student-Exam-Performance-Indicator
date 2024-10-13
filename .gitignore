@@ -3,3 +3,4 @@ venv
 mlproject.egg-info
 logs
 artifacts
+.__pycache__
